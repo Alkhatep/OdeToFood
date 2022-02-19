@@ -37,3 +37,7 @@ D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFo
 D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
 D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyComplete
 D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdoToFood.Core.dll
+D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdoToFood.Core.pdb

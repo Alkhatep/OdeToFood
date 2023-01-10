@@ -3,12 +3,12 @@ using OdeToFood.Data;
 
 namespace OdeToFood.ViewComponents
 {
-    public class RestauranstCountViewComponent
+    public class RestaurantCountViewComponent
         : ViewComponent
     {
         private readonly IRestaurantData restaurantData;
 
-        public RestauranstCountViewComponent(IRestaurantData restaurantData)
+        public RestaurantCountViewComponent(IRestaurantData restaurantData)
         {
             this.restaurantData = restaurantData;
         }

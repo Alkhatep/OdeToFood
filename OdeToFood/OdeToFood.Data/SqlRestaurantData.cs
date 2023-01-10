@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using OdoToFood.Core;
+using OdeToFood.Core;
 using System.Collections.Generic;
 using System.Linq;
 

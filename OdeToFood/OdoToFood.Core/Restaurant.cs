@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace OdoToFood.Core
+namespace OdeToFood.Core
 {
     public class Restaurant
     {

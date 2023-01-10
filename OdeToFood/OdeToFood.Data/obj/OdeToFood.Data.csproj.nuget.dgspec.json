@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdoToFood.Core.csproj": {
-                "projectPath": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdoToFood.Core.csproj"
+              "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdeToFood.Core.csproj": {
+                "projectPath": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdeToFood.Core.csproj"
               }
             }
           }
@@ -79,12 +79,12 @@
         }
       }
     },
-    "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdoToFood.Core.csproj": {
+    "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdeToFood.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdoToFood.Core.csproj",
-        "projectName": "OdoToFood.Core",
-        "projectPath": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdoToFood.Core.csproj",
+        "projectUniqueName": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdeToFood.Core.csproj",
+        "projectName": "OdeToFood.Core",
+        "projectPath": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdeToFood.Core.csproj",
         "packagesPath": "C:\\Users\\Alkhatep\\.nuget\\packages\\",
         "outputPath": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\obj\\",
         "projectStyle": "PackageReference",

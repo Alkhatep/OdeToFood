@@ -1121,14 +1121,14 @@
           }
         }
       },
-      "OdoToFood.Core/1.0.0": {
+      "OdeToFood.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/OdoToFood.Core.dll": {}
+          "bin/placeholder/OdeToFood.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/OdoToFood.Core.dll": {}
+          "bin/placeholder/OdeToFood.Core.dll": {}
         }
       }
     }
@@ -3426,10 +3426,10 @@
         "version.txt"
       ]
     },
-    "OdoToFood.Core/1.0.0": {
+    "OdeToFood.Core/1.0.0": {
       "type": "project",
-      "path": "../OdoToFood.Core/OdoToFood.Core.csproj",
-      "msbuildProject": "../OdoToFood.Core/OdoToFood.Core.csproj"
+      "path": "../OdoToFood.Core/OdeToFood.Core.csproj",
+      "msbuildProject": "../OdoToFood.Core/OdeToFood.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3437,7 +3437,7 @@
       "Microsoft.EntityFrameworkCore >= 7.0.1",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.1",
-      "OdoToFood.Core >= 1.0.0"
+      "OdeToFood.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3467,8 +3467,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdoToFood.Core.csproj": {
-              "projectPath": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdoToFood.Core.csproj"
+            "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdeToFood.Core.csproj": {
+              "projectPath": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdoToFood.Core\\OdeToFood.Core.csproj"
             }
           }
         }

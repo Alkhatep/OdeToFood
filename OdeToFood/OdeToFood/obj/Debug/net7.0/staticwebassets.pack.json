@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdeToFood\\wwwroot\\OdeToFood.png",
+      "PackagePath": "staticwebassets\\OdeToFood.png"
+    },
+    {
       "Id": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdeToFood\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

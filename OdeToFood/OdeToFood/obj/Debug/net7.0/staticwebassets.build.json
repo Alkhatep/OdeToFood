@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4beFW/yoBzzMhONqdWBQzXjIAGA92qM4ILoZxm7npVI=",
+  "Hash": "vZqpGdOM7ZsBvB4NutbT92PJa3dqut0gMoU6BtySgp8=",
   "Source": "OdeToFood",
   "BasePath": "_content/OdeToFood",
   "Mode": "Default",
@@ -627,6 +627,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdeToFood\\wwwroot\\OdeToFood.png",
+      "SourceId": "OdeToFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdeToFood\\wwwroot\\",
+      "BasePath": "_content/OdeToFood",
+      "RelativePath": "OdeToFood.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\OdeToFood.png"
     }
   ]
 }

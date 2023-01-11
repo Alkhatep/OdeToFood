@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "b0YDiYtI6xfMEaC1YDhaUuinceO+fLFy1zFFM5zhBSeN4W5naf0uubHhAoyLX33NYxKmi2n32Dr4GHz6DSxQbg==",
+  "dgSpecHash": "jzLkVsa8p6b/4Ep9wu1JnAFs9bjXcs/C9MBJ77grNs7vPxKLskcfl8aEJkezm+pYoeydsetLcYoNMMHbx7ldBw==",
   "success": true,
   "projectFilePath": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
   "expectedPackageFiles": [
@@ -61,7 +61,6 @@
     "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
-    "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.typescript.msbuild\\4.9.4\\microsoft.typescript.msbuild.4.9.4.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\7.0.1\\microsoft.visualstudio.web.codegeneration.7.0.1.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\7.0.1\\microsoft.visualstudio.web.codegeneration.core.7.0.1.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\7.0.1\\microsoft.visualstudio.web.codegeneration.design.7.0.1.nupkg.sha512",
@@ -84,6 +83,7 @@
     "C:\\Users\\Alkhatep\\.nuget\\packages\\nuget.projectmodel\\6.3.1\\nuget.projectmodel.6.3.1.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\nuget.protocol\\6.3.1\\nuget.protocol.6.3.1.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\nuget.versioning\\6.3.1\\nuget.versioning.6.3.1.nupkg.sha512",
+    "C:\\Users\\Alkhatep\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

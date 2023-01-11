@@ -6,16 +6,16 @@
 
   <ItemGroup>
     <Content Include="node_modules\.package-lock.json" />
-    <Content Include="node_modules\datatables.net-bs\css\dataTables.bootstrap.css" />
-    <Content Include="node_modules\datatables.net-bs\css\dataTables.bootstrap.min.css" />
-    <Content Include="node_modules\datatables.net-bs\images\favicon.ico" />
-    <Content Include="node_modules\datatables.net-bs\images\sort_asc.png" />
-    <Content Include="node_modules\datatables.net-bs\images\sort_asc_disabled.png" />
-    <Content Include="node_modules\datatables.net-bs\images\sort_both.png" />
-    <Content Include="node_modules\datatables.net-bs\images\sort_desc.png" />
-    <Content Include="node_modules\datatables.net-bs\images\sort_desc_disabled.png" />
-    <Content Include="node_modules\datatables.net-bs\License.txt" />
-    <Content Include="node_modules\datatables.net-bs\package.json" />
+    <Content Include="node_modules\datatables.net-bs4\css\dataTables.bootstrap4.css" />
+    <Content Include="node_modules\datatables.net-bs4\css\dataTables.bootstrap4.min.css" />
+    <Content Include="node_modules\datatables.net-bs4\images\favicon.ico" />
+    <Content Include="node_modules\datatables.net-bs4\images\sort_asc.png" />
+    <Content Include="node_modules\datatables.net-bs4\images\sort_asc_disabled.png" />
+    <Content Include="node_modules\datatables.net-bs4\images\sort_both.png" />
+    <Content Include="node_modules\datatables.net-bs4\images\sort_desc.png" />
+    <Content Include="node_modules\datatables.net-bs4\images\sort_desc_disabled.png" />
+    <Content Include="node_modules\datatables.net-bs4\License.txt" />
+    <Content Include="node_modules\datatables.net-bs4\package.json" />
     <Content Include="node_modules\datatables.net\License.txt" />
     <Content Include="node_modules\datatables.net\package.json" />
     <Content Include="node_modules\jquery\AUTHORS.txt" />
@@ -26,11 +26,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="node_modules\datatables.net-bs\js\dataTables.bootstrap.js" />
-    <None Include="node_modules\datatables.net-bs\js\dataTables.bootstrap.min.js" />
-    <None Include="node_modules\datatables.net-bs\js\dataTables.bootstrap.min.mjs" />
-    <None Include="node_modules\datatables.net-bs\js\dataTables.bootstrap.mjs" />
-    <None Include="node_modules\datatables.net-bs\Readme.md" />
+    <None Include="node_modules\datatables.net-bs4\js\dataTables.bootstrap4.js" />
+    <None Include="node_modules\datatables.net-bs4\js\dataTables.bootstrap4.min.js" />
+    <None Include="node_modules\datatables.net-bs4\js\dataTables.bootstrap4.min.mjs" />
+    <None Include="node_modules\datatables.net-bs4\js\dataTables.bootstrap4.mjs" />
+    <None Include="node_modules\datatables.net-bs4\Readme.md" />
     <None Include="node_modules\datatables.net\js\jquery.dataTables.js" />
     <None Include="node_modules\datatables.net\js\jquery.dataTables.min.js" />
     <None Include="node_modules\datatables.net\js\jquery.dataTables.min.mjs" />
@@ -179,8 +179,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <TypeScriptCompile Include="node_modules\datatables.net-bs\types\dataTables.bootstrap.d.ts" />
-    <TypeScriptCompile Include="node_modules\datatables.net-bs\types\types.d.ts" />
+    <TypeScriptCompile Include="node_modules\datatables.net-bs4\types\dataTables.bootstrap4.d.ts" />
+    <TypeScriptCompile Include="node_modules\datatables.net-bs4\types\types.d.ts" />
     <TypeScriptCompile Include="node_modules\datatables.net\types\types.d.ts" />
   </ItemGroup>
 

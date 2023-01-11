@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace OdeToFood.Pages.Restaurants
 {
-    public class CilentRestaurantsModel : PageModel
+    public class ClientRestaurantsModel : PageModel
     {
     }
 }

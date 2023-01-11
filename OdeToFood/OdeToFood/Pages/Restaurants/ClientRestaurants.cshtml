@@ -1,7 +1,7 @@
 ﻿@page
-@model OdeToFood.Pages.Restaurants.CilentRestaurantsModel
+@model OdeToFood.Pages.Restaurants.ClientRestaurantsModel
 @{
-    ViewData["Title"] = "CilentRestaurants";
+    ViewData["Title"] = "ClientRestaurants";
 }
 
 <h2>Client Restaurants</h2>
@@ -9,7 +9,7 @@
 @section Scripts {
     <script>
         $(function(){
-            $.ajax("/api/restuarants/", 
+            $.ajax("/api/restaurants/", 
                 { method: "get"})
                 .then(function(response){
                     console.dir(response);

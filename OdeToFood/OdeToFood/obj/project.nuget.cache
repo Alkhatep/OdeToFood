@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l8lIr/HoXCK8gGGuFZ3mxlV+6SROOzWPKDMb7DFYjQ1qLWFT43cQr5UvgQPo4zhlf6SZiIos7SiPEtoUNOxjmw==",
+  "dgSpecHash": "b0YDiYtI6xfMEaC1YDhaUuinceO+fLFy1zFFM5zhBSeN4W5naf0uubHhAoyLX33NYxKmi2n32Dr4GHz6DSxQbg==",
   "success": true,
   "projectFilePath": "D:\\Code\\source\\dev\\OdeToFood\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
   "expectedPackageFiles": [
@@ -61,6 +61,7 @@
     "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.typescript.msbuild\\4.9.4\\microsoft.typescript.msbuild.4.9.4.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\7.0.1\\microsoft.visualstudio.web.codegeneration.7.0.1.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\7.0.1\\microsoft.visualstudio.web.codegeneration.core.7.0.1.nupkg.sha512",
     "C:\\Users\\Alkhatep\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\7.0.1\\microsoft.visualstudio.web.codegeneration.design.7.0.1.nupkg.sha512",

@@ -430,3 +430,4 @@ D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\bin\Debug\net7.0\node_modules\j
 D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\bin\Debug\net7.0\node_modules\jquery\src\var\toString.js
 D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\bin\Debug\net7.0\node_modules\jquery\src\var\whitespace.js
 D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\bin\Debug\net7.0\node_modules\jquery\src\wrap.js
+D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\bin\Debug\net7.0\appsettings.Production.json

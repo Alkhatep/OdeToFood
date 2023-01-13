@@ -1,6 +1,7 @@
 D:\Publish\odetofood\OdeToFood.exe
 D:\Publish\odetofood\appsettings.Development.json
 D:\Publish\odetofood\appsettings.json
+D:\Publish\odetofood\appsettings.Production.json
 D:\Publish\odetofood\package-lock.json
 D:\Publish\odetofood\package.json
 D:\Publish\odetofood\node_modules\.package-lock.json

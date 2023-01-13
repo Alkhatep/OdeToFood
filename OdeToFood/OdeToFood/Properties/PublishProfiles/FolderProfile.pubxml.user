@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Publish\odetofood</_PublishTargetUrl>
+    <History>True|2023-01-13T03:51:00.7406305Z;True|2023-01-13T05:48:58.5125400+02:00;False|2023-01-13T05:47:03.6038094+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="OdeToFood.Data.OdeToFoodDbContext">
+      <Value>Data Source=%28localdb%29\MSSQLLocalDB%3bInitial Catalog=OdeToFood%3bIntegrated Security=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

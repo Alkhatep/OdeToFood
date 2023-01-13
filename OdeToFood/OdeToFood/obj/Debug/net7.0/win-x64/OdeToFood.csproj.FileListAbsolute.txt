@@ -737,3 +737,4 @@ D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\net7.0\win-x64\refint
 D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\net7.0\win-x64\OdeToFood.pdb
 D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\net7.0\win-x64\OdeToFood.genruntimeconfig.cache
 D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\net7.0\win-x64\ref\OdeToFood.dll
+D:\Code\source\dev\OdeToFood\OdeToFood\OdeToFood\bin\Debug\net7.0\win-x64\appsettings.Production.json

@@ -18,7 +18,11 @@ namespace OdeToFood
         {
             var host = CreateHostBuilder(args).Build();
 
-            MigrateDatabase(host);
+            using (var scope = host.Services.CreateScope())
+            {
+                var db = scope.ServiceProvider.GetRequiredService<OdeToFoodDbContext>();
+                db.Database.Migrate();
+            }
 
             host.Run();
         }

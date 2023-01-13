@@ -1,0 +1,12 @@
+D:\Code\source\dev\OdeToFood\OdeToFood\OdoToFood.Core\bin\Release\net7.0\OdeToFood.Core.deps.json
+D:\Code\source\dev\OdeToFood\OdeToFood\OdoToFood.Core\bin\Release\net7.0\OdeToFood.Core.dll
+D:\Code\source\dev\OdeToFood\OdeToFood\OdoToFood.Core\bin\Release\net7.0\OdeToFood.Core.pdb
+D:\Code\source\dev\OdeToFood\OdeToFood\OdoToFood.Core\obj\Release\net7.0\OdeToFood.Core.csproj.AssemblyReference.cache
+D:\Code\source\dev\OdeToFood\OdeToFood\OdoToFood.Core\obj\Release\net7.0\OdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\source\dev\OdeToFood\OdeToFood\OdoToFood.Core\obj\Release\net7.0\OdeToFood.Core.AssemblyInfoInputs.cache
+D:\Code\source\dev\OdeToFood\OdeToFood\OdoToFood.Core\obj\Release\net7.0\OdeToFood.Core.AssemblyInfo.cs
+D:\Code\source\dev\OdeToFood\OdeToFood\OdoToFood.Core\obj\Release\net7.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
+D:\Code\source\dev\OdeToFood\OdeToFood\OdoToFood.Core\obj\Release\net7.0\OdeToFood.Core.dll
+D:\Code\source\dev\OdeToFood\OdeToFood\OdoToFood.Core\obj\Release\net7.0\refint\OdeToFood.Core.dll
+D:\Code\source\dev\OdeToFood\OdeToFood\OdoToFood.Core\obj\Release\net7.0\OdeToFood.Core.pdb
+D:\Code\source\dev\OdeToFood\OdeToFood\OdoToFood.Core\obj\Release\net7.0\ref\OdeToFood.Core.dll
